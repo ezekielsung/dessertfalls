@@ -1,7 +1,7 @@
 # Desert Falls
-![alt text](/screenshots/characterSelection.PNG)
-![alt text](/screenshots/room-with-monsters.PNG)
-![alt text](/screenshots/boss-room.PNG)
+![alt text](/screenshots/characterSelection.png)
+![alt text](/screenshots/room-with-monsters.png)
+![alt text](/screenshots/boss-room.png)
 <h3> How to Compile and Run Program </h3>
   <ul>
     <li>First navigate into the Server folder and start server by using compile.bat and run.bat. Or can manually run it by running cmd prompt at the location of the Server folder and typing “compile” and then “run”. Then can run the game similarly by navigating to the parent folder, “Project3”, and using compile.bat and run.bat. Or you can also manually run it by running cmd prompt in the folder “Project3” and typing in compile and run. Then cmd prompt will ask you to input the ip address of the server.</li>
